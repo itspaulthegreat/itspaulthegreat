@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Web development using Aws
+- 🔭 I’m currently working on Deep learning and reinforecement learning
 - 🌱 I’m currently learning Machine Learning and AI
 - 💬 Ask me about How I make these great project :p
 - 📫 How to reach me: get connected on [linkedin](https://www.linkedin.com/in/arindam-paul-5a59b3148/). 
